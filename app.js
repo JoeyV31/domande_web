@@ -6,7 +6,7 @@ const App = () => {
   
     return (
       <div className="container">
-        <img src="bg.jpg" alt="Company Logo" className="logo" />
+        <img src="logotemp.jpg" alt="Company Logo" className="logo" />
         <input
           type="text"
           id="nameInput"
